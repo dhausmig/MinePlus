@@ -1,0 +1,8 @@
+# textdomain: decor_electrical
+
+
+### init.lua ###
+
+Doorbell=Дверной звонок
+Light switch=Выключатель света
+Power Outlet=Розетка

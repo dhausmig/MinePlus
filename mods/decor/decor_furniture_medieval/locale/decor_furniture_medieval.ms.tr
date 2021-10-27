@@ -1,0 +1,8 @@
+# textdomain: decor_furniture_medieval
+
+
+### init.lua ###
+
+Bars=Palang
+Binding Bars=Palang Bucu
+Chains=Rantai

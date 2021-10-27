@@ -1,0 +1,38 @@
+# textdomain:technic_worldgen
+# technic_worldgen.en.tr
+# technic_worldgen English translation
+
+###crafts.lua
+Uranium Lump=Uranium Lump
+Uranium Ingot=Uranium Ingot
+Chromium Lump=Chromium Lump
+Chromium Ingot=Chromium Ingot
+Zinc Lump=Zinc Lump
+Zinc Ingot=Zinc Ingot
+Brass Ingot=Brass Ingot
+Wrought Iron Ingot=Wrought Iron Ingot
+Cast Iron Ingot=Cast Iron Ingot
+Carbon Steel Ingot=Carbon Steel Ingot
+Stainless Steel Ingot=Stainless Steel Ingot
+Iron=Iron
+
+###nodes.lua
+Uranium Ore=Uranium Ore
+Chromium Ore=Chromium Ore
+Zinc Ore=Zinc Ore
+Granite=Granite
+Marble=Marble
+Marble Bricks=Marble Bricks
+Uranium Block=Uranium Block
+Chromium Block=Chromium Block
+Zinc Block=Zinc Block
+Wrought Iron Block=Wrought Iron Block
+Cast Iron Block=Cast Iron Block
+Carbon Steel Block=Carbon Steel Block
+Stainless Steel Block=Stainless Steel Block
+Brass Block=Brass Block
+Wrought Iron=Wrought Iron
+
+###rubber.lua
+Rubber Tree Sapling=Rubber Tree Sapling
+Rubber Tree=Rubber Tree

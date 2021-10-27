@@ -1,0 +1,8 @@
+# textdomain: decor_furniture_medieval
+
+
+### init.lua ###
+
+Bars=Gitterstäbe
+Binding Bars=Gitterstäbeverbindung
+Chains=Ketten

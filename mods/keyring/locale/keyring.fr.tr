@@ -1,0 +1,63 @@
+# textdomain: keyring
+
+
+### craft_common.lua ###
+
+Key found in keyring and selected (@1).=La clé est dans ce trousseau et a été sélectionnée (@1).
+Key not found in keyring.=La clé n’est pas dans ce trousseau.
+
+### craft_common.lua ###
+### formspec.lua ###
+
+You are not allowed to use this keyring.=Vous n’êtes pas autorisé à utiliser ce trousseau.
+owned by @1=appartient à @1
+
+### craft_keyring.lua ###
+
+A keyring to store your keys.=Un trousseau pour stocker vos clés.
+Keyring=Trousseau
+
+### craft_keyring.lua ###
+### craft_personal_keyring.lua ###
+
+Left-click on a locked node to select a key, then works as a regular key. Some nodes support right-clicking to select key and open at once.@nClick pointing no node to access key-management interface (keys can be renamed or taken off).@nSome crafts let you add keys to the keyring.=Clic gauche sur un bloc verrouillé pour sélectionner une clé ; fonctionne ensuite comme n’importe quelle clé. Certains blocs permettent de faire un clic droit pour sélectionner la clé et ouvrir en une seule fois.@nFaites un clic en ne pointant pas de bloc pour accéder à l’interface de gestion de clés (les clés peuvent être renommées ou retirées).@nCertaines recettes vous permettent d’ajouter des clés au trousseau.
+
+
+### craft_personal_keyring.lua ###
+
+A personal keyring to store your keys.=Un trousseau personnel pour stocker vos clés.
+Personal Keyring=Trousseau personnel
+
+### formspec.lua ###
+
+Allow key management=Autoriser la gestion des clés
+Deny key management=Interdire la gestion des clés
+Exit=Quitter
+Keyring settings=Paramètres du trousseau
+Keys management=Gestion des clés
+List of keys in the keyring=Listes des clés dans le trousseau
+Make private=Rendre privé
+Make public=Rendre public
+Remove key=Retirer la clé
+Rename key=Renommer la clé
+Share=Partager
+There is no key in the keyring.=Il n’y a pas de clé dans ce trousseau.
+There is no room in your inventory for a key.=Il n’y a pas de place dans votre inventaire pour une clé.
+They are able to use the keyring and to manage keys.=Ils peuvent utiliser le trousseau et gérer les clés.
+They are able to use the keyring but not to manage keys.=Ils peuvent utiliser le trousseau mais pas gérer les clés.
+This keyring is not shared.=Ce trousseau n’est pas partagé.
+This keyring is owned by @1.=Ce trousseau appartient à @1.
+This keyring is public.=Ce trousseau est public.
+This keyring is shared with:=Ce trousseau est partagé avec :
+Unshare=Ne plus partager
+You are not allowed to edit settings of this keyring.=Vous n’êtes pas autorisé à modifier les paramètres de ce trousseau.
+You must enter a name first.=Vous devez d’abord entrer un nom.
+You must enter a player name first.=Vous devez d’abord entrer le nom d’un joueur.
+You must select a key first.=Vous devez d’abord sélectionner une clé.
+You must select a player first.=Vous devez d’abord sélectionner un joueur.
+You own this keyring.=Ce trousseau vous appartient.
+[virtual]=[virtuel]
+
+### privileges.lua ###
+
+Can list keys of private keyrings owned by other players=Permettre de lister les clés d’un trousseau privé qui appartient à d’autres joueurs

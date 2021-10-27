@@ -1,0 +1,8 @@
+# textdomain: decor_wardrobe
+
+
+### init.lua ###
+
+Clothes=Одежда
+Storage=Хранилище
+Wardrobe=Гардероб

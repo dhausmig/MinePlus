@@ -1,0 +1,8 @@
+# textdomain: decor_wardrobe
+
+
+### init.lua ###
+
+Clothes=Kleidung
+Storage=Lagerraum
+Wardrobe=Kleiderschrank

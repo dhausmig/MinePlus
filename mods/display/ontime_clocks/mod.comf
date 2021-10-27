@@ -1,0 +1,4 @@
+name = ontime_clocks
+description = Clocks that display game time
+depends = default,dye,display_lib
+optional_depends = intllib

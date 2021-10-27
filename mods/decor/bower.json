@@ -1,0 +1,19 @@
+{
+    "name": "decor_modpack",
+    "description": "This mod adds a whole bunch of new items to Minetest suitable for decorating inside and outside a home.",
+    "keywords": [
+		"building",
+		"cosmetic",
+        "decor modpack",
+		"decor_modpack"
+    ],
+    "homepage": "http://daconcepts.com/vanessa/hobbies/minetest/decor-crafting-guide/decor-craft-guide.html",
+	"project": "https://github.com/minetest-mods/decor_modpack",
+    "forum": "http://forum.minetest.net/viewtopic.php?f=11&t=2041",
+    "screenshots": [
+        "http://daconcepts.com/vanessa/hobbies/minetest/screenshots/decor1.png"
+    ],
+    "authors": [
+        "VanessaE"
+    ]
+}

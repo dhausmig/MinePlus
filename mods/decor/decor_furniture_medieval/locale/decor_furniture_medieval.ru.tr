@@ -1,0 +1,8 @@
+# textdomain: decor_furniture_medieval
+
+
+### init.lua ###
+
+Bars=Стержни
+Binding Bars=Связующие стержни
+Chains=Цепи

@@ -1,0 +1,2 @@
+code by cx384 licensed GPL-3.0
+Wand texture by NathanS21 licensed CC by SA 4.0

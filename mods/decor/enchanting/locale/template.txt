@@ -1,0 +1,21 @@
+# textdomain: enchanting
+
+### init.lua ###
+
+Axe=
+Bronze=
+Diamond=
+Durability=
+Efficiency=
+Enchanted @1 @2 @3=
+Enchantment Table=
+Mese=
+Pickaxe=
+Sharpness=
+Shovel=
+Steel=
+Sword=
+Your tool digs faster=
+Your tool last longer=
+Your weapon inflicts more damages=
+

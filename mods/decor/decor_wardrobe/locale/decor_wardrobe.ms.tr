@@ -1,0 +1,8 @@
+# textdomain: decor_wardrobe
+
+
+### init.lua ###
+
+Clothes=Pakaian
+Storage=Simpanan
+Wardrobe=Almari Pakaian

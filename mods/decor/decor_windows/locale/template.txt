@@ -1,0 +1,18 @@
+# textdomain: decor_windows
+
+
+### init.lua ###
+
+Curtain Rod (@1)=
+Curtains=
+Curtains (open)=
+Stained Glass=
+Window (plain)=
+Window (quartered)=
+Window Blinds (thick)=
+Window Blinds (thin)=
+Window flowerbox=
+Wooden Shutter=
+brass=
+wood=
+wrought iron=

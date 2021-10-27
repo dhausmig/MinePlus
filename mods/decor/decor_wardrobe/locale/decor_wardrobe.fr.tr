@@ -1,0 +1,8 @@
+# textdomain: decor_wardrobe
+
+
+### init.lua ###
+
+Clothes=Vêtements
+Storage=Rangement
+Wardrobe=Garde-robe

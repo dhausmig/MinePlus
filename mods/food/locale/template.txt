@@ -1,0 +1,43 @@
+# Translation of the food mod by dhausmig
+# based on the farming mod by TenPlus1
+# textdomain: food
+# author: (you)
+# last update: 2020/Apr/26
+
+###### folder . ######
+
+### utensils.lua ###
+Saucepan=
+Cooking Pot=
+Baking Tray=
+Skillet=
+Mortar and Pestle=
+Cutting Board=
+Juicer=
+Glass Mixing Bowl=
+
+### food.lua ###
+
+Sugar=
+Salt=
+Rose Water=
+Turkish Delight=
+Garlic Bread=
+Donut=
+Chocolate Donut=
+Apple Donut=
+Porridge=
+Jaffa Cake=
+
+Flour=
+Bread=
+Sliced Bread=
+Toast=
+Toast Sandwich=
+
+### canned.lua ###
+
+
+### extra.lua ###
+
+

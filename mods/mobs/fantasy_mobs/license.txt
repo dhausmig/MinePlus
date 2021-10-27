@@ -1,0 +1,24 @@
+GOBLINS pulled from:
+https://forum.minetest.net/viewtopic.php?f=9&t=13004
+https://github.com/FreeLikeGNU/mobs_goblins
+License of Media Files:
+---------------------------------------
+* fantasy_goblin.b3d and goblins_goblin.blend
+Copyright 2015 by Francisco "FreeLikeGNU" Athens Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+ * above meshes based on character from minetest_game
+by MirceaKitsune (WTFPL)
+https://github.com/minetest/minetest_game/blob/master/mods/default/README.txt#L71
+
+* fantasy_goblins*.png files
+Copyright 2015 by Francisco "FreeLikeGNU" Athens  Creative Commons  Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+http://creativecommons.org/licenses/by-sa/3.0/
+
+* Sound files by:
+ * artisticdude http://opengameart.org/content/goblins-sound-pack CC0-license
+ * Ogrebane http://opengameart.org/content/monster-sound-pack-volume-1 CC0-license
+
+Lava titan mesh, texture, and sound by NPXcoot licensed CC BY-SA 4.0 https://github.com/NPXcoot/Nssm-models-textures-sounds
+
+Remaining media by Nathan Salapat licensed CC By-SA 4.0
